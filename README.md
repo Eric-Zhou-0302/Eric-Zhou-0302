@@ -10,10 +10,6 @@
 
 **语言：** Python
 
-**数据：** Polars · NumPy · Pandas
-
-**方向：** 量化交易 · Walk-Forward 分析 · 均值回归策略
-
 ---
 
 ## 📂 核心项目
