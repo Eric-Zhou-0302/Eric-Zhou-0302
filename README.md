@@ -66,13 +66,6 @@
 
 <div align="center">
 
-<a href="https://github.com/Eric-Zhou-0302">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Eric-Zhou-0302&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="Eric Zhou's GitHub statistics" />
-</a>
-<a href="https://github.com/Eric-Zhou-0302">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Zhou-0302&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-</a>
-
 <sub>Most projects are built to be used, inspected, and improved—not just displayed.</sub>
 
 </div>
