@@ -66,13 +66,6 @@
 
 <div align="center">
 
-<a href="https://github.com/Eric-Zhou-0302">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Eric-Zhou-0302&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="Eric Zhou 的 GitHub 统计数据" />
-</a>
-<a href="https://github.com/Eric-Zhou-0302">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Zhou-0302&layout=compact&hide_border=true&theme=transparent" alt="常用编程语言" />
-</a>
-
 <sub>项目不是为了陈列，而是为了被使用、检查与持续改进。</sub>
 
 </div>
