@@ -9,6 +9,10 @@
   我把金融研究、工程自动化与真正可用的工具，做成可验证、可交付的系统。
 </p>
 
+<p>
+  <strong>English</strong> · <a href="./README_ZH.md">中文</a>
+</p>
+
 [![Website](https://img.shields.io/badge/Website-ericzhou.net-111827?style=flat-square&logo=safari&logoColor=white)](https://ericzhou.net/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric%20Zhou-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yibozhou-eric)
 [![Focus](https://img.shields.io/badge/Focus-Quant%20Research%20%26%20Automation-7C3AED?style=flat-square)](#what-i-build)
