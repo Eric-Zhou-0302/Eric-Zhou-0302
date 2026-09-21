@@ -32,9 +32,10 @@
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [**jev-A-share-trader**](https://github.com/Eric-Zhou-0302/jev-A-share-trader) | A jev-powered technical analysis workspace for China A-shares, combining eight analytical dimensions into an evidence-backed assessment. Supports interactive charts, watchlists, and batch scans. | `Python` `FastAPI` `React` `TA-Lib` |
 | [**JSON-Resume**](https://github.com/Eric-Zhou-0302/JSON-Resume) | Turns structured JSON into polished, one-page DOCX/PDF resumes. Includes an agent skill, validation, rendering contracts, and visual QA. | `Python` `python-docx` `OOXML` |
 | [**Offer-Rain**](https://github.com/Eric-Zhou-0302/Offer-Rain) | A human-approved, agent-assisted email application workflow that pairs naturally with JSON-Resume. | `Python` `SMTP` `Agent workflow` |
-| [**Alpha派 · 蓝宝书纪要生成器**](https://github.com/Eric-Zhou-0302/auto-financial-report-generator-for-Alphapai-LanBaoShu) | Collects financial news, produces structured Word briefings, and optionally syncs to Feishu or drives WPS distribution. | `Python` `Selenium` `LLM` `DOCX` |
+| [**AlphaPai · Lanbaoshu Briefing Generator**](https://github.com/Eric-Zhou-0302/auto-financial-report-generator-for-Alphapai-LanBaoShu) | Collects financial news, produces structured Word briefings, and optionally syncs to Feishu or drives WPS distribution. | `Python` `Selenium` `LLM` `DOCX` |
 | [**Vocabulary Notebook**](https://github.com/Eric-Zhou-0302/vocabulary-notebook) | A local-first vocabulary system with FastAPI, React, FSRS-4.5 scheduling, SSE, and optional AI enrichment. | `FastAPI` `React` `Vite` `FSRS` |
 | [**IELTS Scribe**](https://github.com/Eric-Zhou-0302/IELTS-Scribe) | A distraction-free, local IELTS writing practice desk with timers, autosave, history, and dark/light themes. | `React` `Vite` `Express` |
 | [**Walk-Forward Reverse Crypto**](https://github.com/Eric-Zhou-0302/Walk-Forward_Reverse_Crypto) | A VWAP mean-reversion research framework with reverse rolling optimisation and strict out-of-sample validation. | `Python` `Polars` `NumPy` |
