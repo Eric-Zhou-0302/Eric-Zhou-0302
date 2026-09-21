@@ -33,6 +33,7 @@
 | 项目 | 它解决什么问题 | 技术栈 |
 | --- | --- | --- |
 | [**JSON-Resume**](https://github.com/Eric-Zhou-0302/JSON-Resume) | 将结构化 JSON 生成专业的单页 DOCX/PDF 简历；包含 Agent Skill、校验机制、渲染契约与视觉验收。 | `Python` `python-docx` `OOXML` |
+| [jev-A-share-trader](https://github.com/Eric-Zhou-0302/jev-A-share-trader) | 基于 Jev 的 A 股技术分析工作台，综合八个分析维度，生成附有技术证据的判断。支持交互式图表、自选股与批量扫描。 | `Python` `FastAPI` `React` `TA-Lib` |
 | [**Offer-Rain**](https://github.com/Eric-Zhou-0302/Offer-Rain) | 需人工确认的 Agent 辅助邮件投递工作流，可与 JSON-Resume 自然衔接。 | `Python` `SMTP` `Agent workflow` |
 | [**Alpha派 · 蓝宝书纪要生成器**](https://github.com/Eric-Zhou-0302/auto-financial-report-generator-for-Alphapai-LanBaoShu) | 抓取金融新闻，生成结构化 Word 纪要，并可选同步至飞书或驱动 WPS 分发。 | `Python` `Selenium` `LLM` `DOCX` |
 | [**Vocabulary Notebook**](https://github.com/Eric-Zhou-0302/vocabulary-notebook) | 本地优先的背词系统：FastAPI、React、FSRS-4.5 调度、SSE 与可选 AI 内容补全。 | `FastAPI` `React` `Vite` `FSRS` |
