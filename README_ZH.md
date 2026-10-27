@@ -36,7 +36,7 @@
 | [jev-A-share-trader](https://github.com/Eric-Zhou-0302/jev-A-share-trader) | 基于 Jev 的 A 股技术分析工作台，综合八个分析维度，生成附有技术证据的判断。支持交互式图表、自选股与批量扫描。 | `Python` `FastAPI` `React` `TA-Lib` |
 | [**Offer-Rain**](https://github.com/Eric-Zhou-0302/Offer-Rain) | 需人工确认的 Agent 辅助邮件投递工作流，可与 JSON-Resume 自然衔接。 | `Python` `SMTP` `Agent workflow` |
 | [**Alpha派 · 蓝宝书纪要生成器**](https://github.com/Eric-Zhou-0302/auto-financial-report-generator-for-Alphapai-LanBaoShu) | 抓取金融新闻，生成结构化 Word 纪要，并可选同步至飞书或驱动 WPS 分发。 | `Python` `Selenium` `LLM` `DOCX` |
-| [**Vocabulary Notebook**](https://github.com/Eric-Zhou-0302/vocabulary-notebook) | 本地优先的背词系统：FastAPI、React、FSRS-4.5 调度、SSE 与可选 AI 内容补全。 | `FastAPI` `React` `Vite` `FSRS` |
+| [**Vocove**](https://github.com/Eric-Zhou-0302/vocove) | 本地优先的背词系统：FastAPI、React、FSRS-4.5 调度、SSE 与可选 AI 内容补全。 | `FastAPI` `React` `Vite` `FSRS` |
 | [**IELTS Scribe**](https://github.com/Eric-Zhou-0302/IELTS-Scribe) | 无干扰的本地雅思写作练习台，内置计时、自动保存、历史归档与深浅主题。 | `React` `Vite` `Express` |
 | [**Walk-Forward Reverse Crypto**](https://github.com/Eric-Zhou-0302/Walk-Forward_Reverse_Crypto) | 基于 VWAP 均值回归的研究框架，采用逆向滚动寻优与严格的样本外验证。 | `Python` `Polars` `NumPy` |
 
